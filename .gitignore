@@ -20,5 +20,5 @@ erl_crash.dump
 *.ez
 
 # Ignore package tarball (built via "mix hex.build").
-divo_postgres-*.tar
+divo_postgres_db-*.tar
 

@@ -5,7 +5,7 @@ defmodule DivoPostgres.MixProject do
 
   def project do
     [
-      app: :divo_postgres,
+      app: :divo_postgres_db,
       version: "1.0.0",
       elixir: "~> 1.14",
       start_permanent: Mix.env() == :prod,
