@@ -1,4 +1,4 @@
-[![Hex.pm Version](http://img.shields.io/hexpm/v/divo_postgres.svg?style=flat)](https://hex.pm/packages/divo_postgres)
+[![Hex.pm Version](http://img.shields.io/hexpm/v/divo_postgres_db.svg?style=flat)](https://hex.pm/packages/divo_postgres_db)
 
 # Divo Postgres
 
@@ -11,13 +11,13 @@ Requires inclusion of the Divo library in your mix project.
 
 ## Installation
 
-The package can be installed by adding `divo` and `divo_postgres` to your list of dependencies in `mix.exs`:
+The package can be installed by adding `divo` and `divo_postgres_db` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
   [
     {:divo, "~> 2.0.0"},
-    {:divo_postgres, "~> 1.0.0"}
+    {:divo_postgres_db, "~> 1.0.0"}
   ]
 end
 ```
