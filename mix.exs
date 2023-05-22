@@ -1,7 +1,7 @@
 defmodule DivoPostgres.MixProject do
   use Mix.Project
 
-  @github "https://github.com/jeffgrunewald/divo_postgres"
+  @github "https://github.com/UrbanOS-Public/divo_postgres_db"
 
   def project do
     [
@@ -38,7 +38,7 @@ defmodule DivoPostgres.MixProject do
 
   defp package do
     [
-      maintainers: ["jeffgrunewald"],
+      maintainers: ["smartcitiesdata"],
       licenses: ["Apache 2.0"],
       links: %{"GitHub" => @github}
     ]

@@ -79,4 +79,4 @@ See [Postgres source](https://www.postgresql.org/) for the full codebase behind 
 
 
 ## License
-Released under [Apache 2 license](https://github.com/jeffgrunewald/divo_postgres/blob/master/LICENSE).
+Released under [Apache 2 license](https://github.com/UrbanOS-Public/divo_postgres_db/blob/master/LICENSE).
