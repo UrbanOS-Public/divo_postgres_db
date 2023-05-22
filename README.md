@@ -16,8 +16,8 @@ The package can be installed by adding `divo` and `divo_postgres` to your list o
 ```elixir
 def deps do
   [
-    {:divo, "~> 1.3"},
-    {:divo_postgres, "~> 0.2.0"}
+    {:divo, "~> 2.0.0"},
+    {:divo_postgres, "~> 1.0.0"}
   ]
 end
 ```
